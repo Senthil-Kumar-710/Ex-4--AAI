@@ -1,6 +1,6 @@
 <H3>Senthil Kumar S</H3>
 <H3>212221230091</H3>
-<H3>EX. NO.4</H3>
+<H3>EX. NO: 4</H3>
 <H3>DATE: 11/03/24</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
